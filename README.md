@@ -4,4 +4,4 @@
 
 </div>
 
-# Eine Website mit jeglichem Material zum Informatik Lernplan NRW
+# Eine Website mit jeglichem Material zu Informatik
